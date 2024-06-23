@@ -19,40 +19,13 @@ The primary goal of this project is to showcase:
 - **Implementation**: Step-by-step implementation of Gradient Descent.
 - **Visualization**: Visual representation of algorithmic outputs.
 - **Educational Resource**: Serve as an educational resource for understanding Gradient Descent.
-
-## Usage
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/gradient-descent-optimization.git
-   ```
-   
-2. Navigate to the project directory:
-   ```
-   cd gradient-descent-optimization
-   ```
-
-3. Run the Jupyter Notebook `Gradient_Descent_Example.ipynb` to see Gradient Descent in action and visualize its impact.
-
+ 
 ## Contents
 
 - **`Gradient_Descent_Example.ipynb`**: Jupyter Notebook demonstrating Gradient Descent implementation.
 - **`README.md`**: This file providing an overview of the project.
 - **`requirements.txt`**: List of Python dependencies for easy setup.
-
-## How to Contribute
-
-Contributions are welcome! Here's how you can contribute to this project:
-
-- Fork the repository
-- Create a new branch (`git checkout -b feature`)
-- Make modifications and commit changes (`git commit -am 'Add new feature'`)
-- Push to the branch (`git push origin feature`)
-- Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+'
 
 ## Contact
 
