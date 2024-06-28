@@ -16,24 +16,21 @@ Gradient Descent is a fundamental optimization technique used extensively in mac
 ## Purpose
 
 The primary goal of this project is to showcase:
-- **Implementation**: Step-by-step implementation of Gradient Descent.
-- **Visualization**: Visual representation of algorithmic outputs.
+- **Implementation**: Step-by-step implementation of [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent).
+- **Visualization**: Visual representation of algorithmic outputs using [Matplotlib](https://matplotlib.org/).
 - **Educational Resource**: Serve as an educational resource for understanding Gradient Descent.
- 
+
 ## Contents
 
 - **`Gradient_Descent_Example.ipynb`**: Jupyter Notebook demonstrating Gradient Descent implementation.
 - **`README.md`**: This file providing an overview of the project.
 - **`requirements.txt`**: List of Python dependencies for easy setup.
-'
 
 ## Contact
 
 For questions or feedback, please feel free to reach out:
 
-# Email:
-waqas56jb@gmail.com
-# LinkedIn:
-[ [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/waqas-naveed-630297247/)
-# GitHub:
-https://github.com/Waqas56jb
+- **Email**: [waqas56jb@gmail.com](mailto:waqas56jb@gmail.com)
+- **LinkedIn**: [Waqas Naveed](https://www.linkedin.com/in/waqas-naveed-630297247/)
+- **GitHub**: [GitHub Repository](https://github.com/Waqas56jb)
+
